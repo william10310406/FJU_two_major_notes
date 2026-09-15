@@ -11,10 +11,14 @@
             "id": "19173671b0eba84a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-15 普通物理 Ch01 Measurement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-15 普通物理 Ch01 Measurement"
             }
           }
         ]
@@ -183,6 +187,8 @@
   },
   "active": "19173671b0eba84a",
   "lastOpenFiles": [
+    "115 Physics Ch01.pdf",
+    "2026-09-15 普通物理 Ch01 Measurement.md",
     "未命名.md",
     "普通物理(一).pdf",
     "0914(49).md",
